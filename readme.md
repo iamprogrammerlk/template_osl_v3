@@ -104,8 +104,6 @@ See [license](/license.md) for more information.
 - 🚫 Trademark use
 - 🚫 Warranty
 
-[choosealicense]: https://choosealicense.com/licenses/osl-3.0/
-
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,3 +118,5 @@ See [license](/license.md) for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+
+[choosealicense]: https://choosealicense.com/licenses/osl-3.0/
